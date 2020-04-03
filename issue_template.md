@@ -1,12 +1,12 @@
 Instructions: Do NOT include these template instructions. This form is meant to be filled in
 and instructions per section REMOVED in final report.
 
-- 1. Title should be “Game Name, Issue Description (Short)”
-- 2. If downloaded from build site, include “CIDL”, if not, simply remove “ CIDL”
-- 3. Under repro steps “Observe _____” means, “Observe X issue happens” (for communication to
+1. Title should be “Game Name, Issue Description (Short)”
+2. If downloaded from build site, include “CIDL”, if not, simply remove “ CIDL”
+3. Under repro steps “Observe _____” means, “Observe X issue happens” (for communication to
 dev.)
-- 4. Bold headers ie. "Description / Repro Steps / Logs Gathered / Screenshots"
-- 5. Code border for "Logs Gathered" will have a line, above and below the log using ```
+4. Bold headers ie. "Description / Repro Steps / Logs Gathered / Screenshots"
+5. Code border for "Logs Gathered" will have a line, above and below the log using ```
 
 ---
 
