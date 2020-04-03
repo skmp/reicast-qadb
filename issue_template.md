@@ -1,5 +1,5 @@
-Instructions: Do not include template instructions. This form is meant to be filled in
-and instructions per section removed in final report.
+Instructions: Do NOT include these template instructions. This form is meant to be filled in
+and instructions per section REMOVED in final report.
 
 - 1. Title should be “Game Name, Issue Description (Short)”
 - 2. If downloaded from build site, include “CIDL”, if not, simply remove “ CIDL”
@@ -27,18 +27,19 @@ Description here. One to two sentences.
 
 **Temporary solution:**
 
-If any, write one here.
+If any, write one here, if not, remove section.
 
 **Issue occurs:**
 
-Alpha Commit # (If issue still occurs on newer build, update here)
+Alpha Commit # (If issue still occurs on newer build, update here), if not, leave blank.
 
-**Logs Gathered**
+**Logs Gathered:**
 
 ```
-Place here, If no log (not ideal), type “N/A” w/o quotes
+Place inside a box using ``` at the beginning and the end of the log. 
+If no log (not ideal), type “N/A” w/o quotes.
 ```
 
 **Screenshots:**
 
-![Name](upload or url)
+![Name](upload or url) (If no screenshot, leave blank.)
