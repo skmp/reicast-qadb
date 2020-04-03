@@ -10,7 +10,7 @@ dev.)
 
 ---
 
-**| OS | alpha | Hash | CIDL|**
+**| OS | alpha | Hash | CIDL |**
 
 **Description of the Issue:**
 
