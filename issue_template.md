@@ -33,6 +33,10 @@ If any, write one here, if no temporary solution, remove section.
 
 Alpha Commit # goes here (Only if and when issue still occurs on newer build, update here). If not, leave blank for now.
 
+**NullDC:** 
+
+Did the issue occur in Latest Public NullDC Build? (Yes or No)
+
 **Logs Gathered:**
 
 ```
