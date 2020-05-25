@@ -16,22 +16,10 @@ dev.)
 
 Description here. One to two sentences.
 
-**Repro Steps:** OR **Debugging Steps Tested:**
+**Repro Steps:** or **Debugging Steps Tested:**
 * Repro Steps meaning, steps to reproduce the issue.
 * Debugging Steps Tested means, what other settings did you use to test if the bug still occurs.
 
-1.
-2.
-3.
-4. Observe _____________.
-
-**Temporary solution:**
-
-If any, write one here, if no temporary solution, remove section.
-
-**Issue occurs:**
-
-Alpha Commit # goes here (Only if and when issue still occurs on newer build, update here). If not, leave blank for now.
 
 **NullDC:** 
 
